@@ -1,1 +1,3 @@
 # Economyhealth_CanonicalCorrelationAnalysisl
+
+The study of the relationship between economy and health is a crucial field in scientific research. This relationship encompasses how the economic conditions of a country or region affect the health levels of its population, and conversely, how the health conditions of a population can influence economic productivity. A strong economy is typically associated with better health levels due to greater access to healthcare, better nutrition, and a healthier living environment. Conversely, a healthy population can be more productive and contribute more significantly to economic growth. 
